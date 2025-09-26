@@ -4,8 +4,7 @@ how game mechanics come to life. It’s also the place where I share my 2D pixel
 Working on this not only helps me learn, but also gives me the joy of creating something I’ve always dreamed about.
 
 # #1: The Orange Cat
-This Orange Cat i got from the free assets somewhere in the internet ( i stole not gonna lie), then i t start testing with him to understand how the animations work,
-I create a basic movement interaction for him and its look like this: 
+This free orange cat was taken from free assets I found somewhere on the internet (I kind of stole it, not gonna lie). Then I started testing with him to understand how the animations work. I created a basic movement interaction for him, and it looks like this:
 <img width="770" height="362" alt="image" src="https://github.com/user-attachments/assets/33f259e6-bcc8-4138-9183-40ca8802e8ed" />
 
 Basicly he can walk, jumpin, and guest what, walk faster ( i call it running)
