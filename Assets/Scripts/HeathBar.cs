@@ -1,0 +1,28 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class HeathBar : MonoBehaviour
+{
+    [SerializeField] private Slider slider;
+    [SerializeField] private Vector3 offset;
+
+    
+ 
+
+
+
+    public void UpdateHealthBar(float health,float maxhealth )
+    {
+        slider.value = health / maxhealth;
+    }
+
+    
+    void Update()
+    {
+
+    }
+   
+
+}
