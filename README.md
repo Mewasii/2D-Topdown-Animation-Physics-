@@ -13,11 +13,6 @@ Basicly he can walk, jumpin, and guest what, walk faster ( i call it running)
 
 ![gif](https://github.com/user-attachments/assets/801c07b6-52b7-4004-8099-4d2c73c249c7)
 
-![gif (2)](https://github.com/user-attachments/assets/8977119e-120e-4cdd-aba2-1bcb730e99ff)
-
-![gif (3)](https://github.com/user-attachments/assets/1cb59448-5071-4f9d-9595-c94ae7272f20)
-
-
 ## #2 Idle
 
 Firt we'll talk about how orange dude can up down up down him self
@@ -27,7 +22,7 @@ Infact he have 10 frame of different state of how he stand
 
 combine each with others, set a perfect sample rate for animator and the dude can idle himself
 
-![giphy (7)](https://github.com/user-attachments/assets/a7e1cf87-2023-4366-9450-ab36b468ccff)
+![giphy (8)](https://github.com/user-attachments/assets/00ff7673-571a-43d0-a4b9-a4687315ba8c)
 
 ## #3 Walking
 
@@ -50,6 +45,23 @@ To make the moving things get going on the playground, a little math about possi
 All of these "walking" are the magic of  art, code, math and architecture
 
 
+![giphy (10)](https://github.com/user-attachments/assets/ccf957af-05fd-4f3e-b2ea-cbbd847f89c7)
+
+## #4 Jump in (or dash in) and running
+
+remember about the previous trickypart ?
+This's still the sameone mate :3 
+
+But here's the things, instead of >< button, now i have "space" for jumpin and "ctrl" for running 
+The condition of jumping is pretty simple hit "space" and Orange jump
+
+![giphy (9)](https://github.com/user-attachments/assets/9cf0302b-0b18-42fd-9e74-4a77b607b1a4)
+
+but with the running , Orange need to accelarate so he will walk first, then if i hit "ctrl": the cat's runnin
+
+<img width="697" height="352" alt="image" src="https://github.com/user-attachments/assets/84be07c1-1238-4899-ad80-b2b6d981fed6" />
+
+![giphy (11)](https://github.com/user-attachments/assets/1bda7eb1-51c2-43e4-8298-34e3c2dc3a3a)
 
 
 
