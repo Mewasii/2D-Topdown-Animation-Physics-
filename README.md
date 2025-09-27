@@ -64,4 +64,15 @@ but with the running , Orange need to accelarate so he will walk first, then if 
 ![giphy (11)](https://github.com/user-attachments/assets/1bda7eb1-51c2-43e4-8298-34e3c2dc3a3a)
 
 
+# Show room
+## This's where i show you my arts, its amatuer but i enjoy drawing stuff soo, here's is it
+
+Waring: **Aseprite not sponsor these arts 
+
+## The Catbish
+
+![giphy (15)](https://github.com/user-attachments/assets/ba2b2d2d-a6ff-4828-94e3-2f8c3687b29f)
+
+
+
 
