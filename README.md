@@ -110,6 +110,24 @@ Force and cooldown are supper important cause if you dont forcing it right you w
 ![giphy (18)](https://github.com/user-attachments/assets/b3bc9db7-5eb5-48d3-960d-e543c1016d54)
 
 ## Enermy
+Lets take a quick look 
+
+<img width="1707" height="678" alt="image" src="https://github.com/user-attachments/assets/f1ea03b0-33e3-4a03-94af-bf8b58fc94cf" />
+
+There's alot things to make this dude work right, so lets break it down 1 by 1
+
+### #1 Moving 
+Basicly, this dark dude will need the same animation control as Orange
+
+<img width="1144" height="497" alt="image" src="https://github.com/user-attachments/assets/749fc3bc-9af2-4f03-87f4-83233ddac23f" />
+
+Cause he's evil      so he have his own will
+
+<img width="554" height="500" alt="image" src="https://github.com/user-attachments/assets/fef8a7b3-c27b-46fb-b3c0-d1ed726b52ae" />
+
+
+
+
 
 
 
