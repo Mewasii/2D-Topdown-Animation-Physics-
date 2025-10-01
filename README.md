@@ -4,7 +4,7 @@ how game mechanics come to life. It’s also the place where I share my 2D pixel
 Working on this not only helps me learn, but also gives me the joy of creating something I’ve always dreamed about.
 
 # The Testing Ground
-## #1: The Orange Cat
+##  The Orange Cat
 This free orange cat was taken from free assets I found somewhere on the internet (I kind of stole it, not gonna lie). Then I started testing with him to understand how the animations work. I created a basic movement interaction for him, and it looks like this:
 
 <img width="770" height="362" alt="image" src="https://github.com/user-attachments/assets/33f259e6-bcc8-4138-9183-40ca8802e8ed" />
@@ -13,7 +13,7 @@ Basicly he can walk, jumpin, and guest what, walk faster ( i call it running)
 
 ![gif](https://github.com/user-attachments/assets/801c07b6-52b7-4004-8099-4d2c73c249c7)
 
-## #2 Idle
+### #1 Idle
 
 Firt we'll talk about how orange dude can up down up down him self
 Infact he have 10 frame of different state of how he stand
@@ -24,7 +24,7 @@ combine each with others, set a perfect sample rate for animator and the dude ca
 
 ![giphy (8)](https://github.com/user-attachments/assets/00ff7673-571a-43d0-a4b9-a4687315ba8c)
 
-## #3 Walking
+### #2 Walking
 
 With walking, we will have the same animator process as the idle
 
@@ -47,7 +47,7 @@ All of these "walking" are the magic of  art, code, math and architecture
 
 ![giphy (10)](https://github.com/user-attachments/assets/ccf957af-05fd-4f3e-b2ea-cbbd847f89c7)
 
-## #4 Jump in (or dash in) and running
+### #3 Jump in (or dash in) and running
 
 remember about the previous trickypart ?
 This's still the sameone mate :3 
@@ -63,7 +63,54 @@ but with the running , Orange need to accelarate so he will walk first, then if 
 
 ![giphy (11)](https://github.com/user-attachments/assets/1bda7eb1-51c2-43e4-8298-34e3c2dc3a3a)
 
-##  #5 The Cannonball
+## The Cannonball
+
+Instead of stealing something on the internet, I prefer using something I already have. It took me 2 seconds to find something "gunnly" in my assets, and BEEM! The big bad giant tomb ready to gun
+
+As you can see i attach it right into Orange 
+
+<img width="1153" height="720" alt="image" src="https://github.com/user-attachments/assets/3915dd94-919a-4890-9a0d-7f2baf02857d" />
+
+To control the cannon, again, we need to do math and code.
+First, cannon head will always point directly at the player's mouse cursor.
+
+It performs two main actions every frame:
+
+Aims: It calculates the angle between the object's position and the mouse's position in the game world, then rotates the object to face that angle.
+
+Flips: It checks if the object is aiming over its left shoulder (rotation between 90∘ and 270∘)
+ If it is, it flips the object's sprite vertically (by setting its Y scale to a negative value, ≈−0.09) so the sprite doesn't appear upside-down.
+
+<img width="1035" height="396" alt="image" src="https://github.com/user-attachments/assets/f6cc2432-bad3-4596-bf86-d9e2d0e7a6a0" />
+
+
+![giphy (17)](https://github.com/user-attachments/assets/b1941d4e-0bbf-4c03-8543-15e90c0a1e63)
+
+
+And what's the most importance thing for the Cannonball ? 
+
+Bullet ??? NUH UHHH its Solid ROCKKKKKK
+
+<img width="706" height="266" alt="image" src="https://github.com/user-attachments/assets/fde8c156-d01f-4645-b538-d858e0aecc53" />
+
+About the rocking thing, lets add 2 fuction:
+
+<img width="701" height="219" alt="image" src="https://github.com/user-attachments/assets/317570bc-c73d-40d6-8332-c3afded46469" />
+
+<img width="1044" height="218" alt="image" src="https://github.com/user-attachments/assets/23c86e59-705e-43ff-b1cc-d871804555df" />
+
+
+Fire() (Shooting): Instantiates a bullet at the muzzle position, resets the firing cooldown, and applies a strong force to propel the bullet in the direction the object is currently pointing.
+
+Update() (Logic): Constantly calls Gunning() and checks if the player is holding the left mouse button AND the cooldown time is finished. If both are true, it calls Fire().
+
+Force and cooldown are supper important cause if you dont forcing it right you will have a slingshot, if you not let it cool down, you got a lazergun go brrrrrrrrrrrrrrrr instead of br br br br
+
+
+![giphy (18)](https://github.com/user-attachments/assets/b3bc9db7-5eb5-48d3-960d-e543c1016d54)
+
+## Enermy
+
 
 
 
