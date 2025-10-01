@@ -73,6 +73,23 @@ Waring: **Aseprite not sponsor these arts
 
 ![giphy (15)](https://github.com/user-attachments/assets/ba2b2d2d-a6ff-4828-94e3-2f8c3687b29f)
 
+## Mr.Owl
+
+<img width="1062" height="873" alt="image" src="https://github.com/user-attachments/assets/75fd671b-2ed9-4e7a-b91f-7983f16226e9" />
+
+## The Heart
+
+<img width="990" height="686" alt="image" src="https://github.com/user-attachments/assets/5420882d-7a33-490d-a6f2-5bfa7218e680" />
+
+## Self-portrait
+
+<img width="1398" height="869" alt="image" src="https://github.com/user-attachments/assets/906f01a4-3ff7-4446-b5d5-71a1bbd3edbb" />
+
+
+
+
+
+
 
 
 
